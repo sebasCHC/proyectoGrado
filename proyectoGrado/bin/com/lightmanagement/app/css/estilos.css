@@ -1,0 +1,25 @@
+.botonVentanaAcceder-estilo{
+	-fx-font-family: "Segoe UI Bold";
+	-fx-background-radius: 15; 
+	-fx-background-color: #228aa5;
+	-fx-text-fill: black;
+	-fx-cursor:hand;
+	-fx-font-size: 15px;
+}
+
+.botonVentanaAcceder-estilo:pressed{
+	-fx-background-color: #2898b6;
+}
+
+.botonVentanaPrincipal-estilo{
+	-fx-background-color: #26a3c3;
+	   -fx-background-radius: 15;
+	   -fx-text-fill: black;
+	   -fx-cursor: hand;
+	   -fx-font-family: "Segoe UI Bold";
+	   -fx-font-size: 15px;
+}
+
+.botonVentanaPrincipal-estilo:pressed{
+	-fx-background-color: #259ab8;
+}
